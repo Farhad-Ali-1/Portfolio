@@ -1,2 +1,2 @@
-# My Portfolio
-portfolio made using html and css
+# My Personal Portfolio
+portfolio made using html and css.
